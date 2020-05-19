@@ -15,5 +15,24 @@ _this is italicized text_
 
 _**this is bolded and italicized text**_
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![Image of McMaster](https://i.ytimg.com/vi/c5CaIOgNjnU/maxresdefault.jpg)
+
+I tried to add an image there ^ but not sure if it worked.
+
+1. Here I am
+1. using a
+1. numbered list
+   
+   
+* Here I am using
+* bullet points
+
+[Here is the link to the storymap I created in the GIS module for Inspire 1A03](https://storymaps.arcgis.com/stories/b6e9da6d364c43ec9568b4978c71dbb7)
+
+Modules I did | Week #
+------------ | -------------
+Mapping | 1
+Social Justice| 2
+Electronics | 3
+
+Here is an emoji: :smiley:
