@@ -17,7 +17,7 @@ _**this is bolded and italicized text**_
 
 ![Image of McMaster](https://i.ytimg.com/vi/c5CaIOgNjnU/maxresdefault.jpg)
 
-I tried to add an image there ^ but not sure if it worked.
+Here is an image ^.
 
 1. Here I am
 1. using a
