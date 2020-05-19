@@ -2,4 +2,9 @@
 
 # # Part 2. Learning Markdown
 
-**this is working**
+**this is working!**
+
+
+Things to do today:
+1. Github
+2. Markdown 
